@@ -1,0 +1,4 @@
+a tag givin to files to tell the computers how to preform that action
+operating?
+if condition is met then this happens
+a tag to tell a compeuter to keep repeating
