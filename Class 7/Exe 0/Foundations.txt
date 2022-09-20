@@ -1,0 +1,2 @@
+document objective model the whole web page is under its umbrella
+the're listening for something lioke a click to happen
