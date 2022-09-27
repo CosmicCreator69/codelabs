@@ -1,0 +1,26 @@
+body {
+    background-color: darkgreen;
+}
+
+h1 {
+    color: azure;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-align:center
+}
+
+div {
+    color: aliceblue;
+    text-align: center;
+
+}
+
+span {
+    color: azure;
+    text-align: center;
+}
