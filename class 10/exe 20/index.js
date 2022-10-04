@@ -1,0 +1,6 @@
+setInterval(){
+    
+document.getElementById(red)
+    
+
+}
